@@ -3,7 +3,7 @@ type: theme
 base theme: vartheme
 
 name: 'cEng'
-description: 'A Drupal Bootstrap 3 based sub-theme.'
+description: 'cEng theme which is a sub theme of vartheme'
 package: 'Bootstrap'
 
 regions:
