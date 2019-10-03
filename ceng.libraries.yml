@@ -1,7 +1,10 @@
 global-styling:
   css:
     theme:
-      css/style.css: {}
+      css/font-style.css: {}
+      css/field-style.css: {}
+      css/block-style.css: {}
+      css/region-style: {}
 
 # Uncomment for LESS source JavaScript files.
 #  js:
